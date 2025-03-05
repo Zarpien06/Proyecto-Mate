@@ -1,1 +1,1 @@
-Juego Binario
+JUEGO BINARIO
